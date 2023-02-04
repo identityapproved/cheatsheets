@@ -20,3 +20,6 @@
 | Ctrl+Shift+Tab | Moves through each of the open tabs going to the left. |
 | Spacebar | Moves down a page at a time. |
 | Shift+Spacebar | Moves up a page at a time. |
+| Ctrl + l or Alt + d or F6 | Jump to the address bar |
+| Ctrl + k or Ctrl + e | Search from anywhere on the page | 
+

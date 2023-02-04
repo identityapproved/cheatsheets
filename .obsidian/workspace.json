@@ -4,59 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "58403a01db0c0f35",
+        "id": "ad444a744386a857",
         "type": "tabs",
         "children": [
           {
-            "id": "ca8e78eafd7f3028",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ObsidianMD/Obsidian Web Links.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "add613744a4bd29e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ObsidianMD/Plugins.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36b50e7e913546d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ObsidianMD/Templates/Book Application Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce48c10619ebbd1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ObsidianMD/Templates/Book Chapters Notes Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff668631c3d1e583",
+            "id": "3092d193a8819258",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -64,43 +16,55 @@
             }
           },
           {
-            "id": "2173deec0e87fd8d",
+            "id": "2b36e3f618a59800",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Manjaro/Base Setup/Window Managment.md",
+                "file": "Linux/Terminal/oh-my-zsh.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a299b788e3bc0936",
+            "id": "13d676400cc3c2be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shortcuts/Shortcuts Backlinks.md",
+                "file": "Linux/Terminal/oh-my-zsh.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6d86e7117878304f",
+            "id": "0ef8d19f2011378b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Terminal/Yakuake.md",
+                "file": "Linux/Terminal/Terminal Shortcuts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7cc5afd1cf873a1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shortcuts/Google Chrome Shortcuts.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -182,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Terminal/Yakuake.md",
+                "file": "Shortcuts/Google Chrome Shortcuts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Terminal/Yakuake.md",
+                "file": "Shortcuts/Google Chrome Shortcuts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Terminal/Yakuake.md"
+                "file": "Shortcuts/Google Chrome Shortcuts.md"
               }
             }
           }
@@ -245,17 +209,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6d86e7117878304f",
+  "active": "7cc5afd1cf873a1b",
   "lastOpenFiles": [
     "Shortcuts/Shortcuts Backlinks.md",
-    "Linux/Snap Packages.md",
-    "Linux/Terminal/Yakuake.md",
-    "Linux/Manjaro/Base Setup/Update Upgrade.md",
-    "Linux/Manjaro/Base Setup/GIT.md",
-    "ObsidianMD/Templates/Table Template.md",
-    "ObsidianMD/Obsidian Web Links.md",
+    "Linux/Terminal/Terminal Shortcuts.md",
     "Shortcuts/Google Chrome Shortcuts.md",
+    "Linux/Terminal/Terminal.md",
+    "Linux/Terminal/oh-my-zsh.md",
+    "Linux/Manjaro/Base Setup/AUR packages installation.md",
     "Linux/Manjaro/Base Setup/Window Managment.md",
-    "ObsidianMD/Templates/Book Chapters Notes Template.md"
+    "Linux/Manjaro/KDE Plasma Default Key Bindings.md",
+    "Linux/Terminal/Konsole.md",
+    "Linux/Manjaro/Base Setup/Node Version Manager.md"
   ]
 }

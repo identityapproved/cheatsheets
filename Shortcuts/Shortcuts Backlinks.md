@@ -2,7 +2,7 @@
 [[Window Managment#^3c216d|Krohnkite WM]]
 
 Terminals Shortcuts:
-[[Yakuake]]
+[[Terminal Shortcuts]]
 
 Browser:
 [[Google Chrome Shortcuts]]

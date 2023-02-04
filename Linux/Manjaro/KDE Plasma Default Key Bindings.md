@@ -8,3 +8,5 @@
 | Alt + Space / Alt + F2 | KRunner |
 | Meta + Alt + <- / -> | Switching between windows |
 | Meta + PgDown | Minimize window |
+| Meta + B | Hide window border |
+
