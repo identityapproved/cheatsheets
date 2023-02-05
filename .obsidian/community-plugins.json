@@ -1,6 +1,8 @@
 [
   "obsidian-admonition",
-  "obsidian-emoji-toolbar",
   "obsidian-excalidraw-plugin",
-  "obsidian-wakatime"
+  "obsidian-wakatime",
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-mind-map",
+  "obsidian-kanban"
 ]

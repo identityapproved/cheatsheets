@@ -4,67 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "ad444a744386a857",
+        "id": "1071c89d20897186",
         "type": "tabs",
         "children": [
           {
-            "id": "3092d193a8819258",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "2b36e3f618a59800",
+            "id": "dec5aabe02d137f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Terminal/oh-my-zsh.md",
+                "file": "Linux/Terminal/Useful Tools.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "13d676400cc3c2be",
+            "id": "a972a1025813e1d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Terminal/oh-my-zsh.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ef8d19f2011378b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Terminal/Terminal Shortcuts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7cc5afd1cf873a1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shortcuts/Google Chrome Shortcuts.md",
+                "file": "Linux/Terminal/Terminal.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shortcuts/Google Chrome Shortcuts.md",
+                "file": "Linux/Terminal/Terminal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shortcuts/Google Chrome Shortcuts.md",
+                "file": "Linux/Terminal/Terminal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shortcuts/Google Chrome Shortcuts.md"
+                "file": "Linux/Terminal/Terminal.md"
               }
             }
           }
@@ -209,17 +177,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7cc5afd1cf873a1b",
+  "active": "a972a1025813e1d4",
   "lastOpenFiles": [
-    "Shortcuts/Shortcuts Backlinks.md",
+    "Shortcuts/LF Shortcuts.md",
+    "Linux/Terminal/Useful Tools.md",
+    "Linux/Terminal/Terminal.md",
     "Linux/Terminal/Terminal Shortcuts.md",
     "Shortcuts/Google Chrome Shortcuts.md",
-    "Linux/Terminal/Terminal.md",
-    "Linux/Terminal/oh-my-zsh.md",
-    "Linux/Manjaro/Base Setup/AUR packages installation.md",
-    "Linux/Manjaro/Base Setup/Window Managment.md",
-    "Linux/Manjaro/KDE Plasma Default Key Bindings.md",
-    "Linux/Terminal/Konsole.md",
-    "Linux/Manjaro/Base Setup/Node Version Manager.md"
+    "Books/Read List.md",
+    "Kanbans/2023/Books Kanban.md",
+    "Books/Currently Reading List.md",
+    "Books/Should read.md",
+    "ObsidianMD/Templates/Book Application Template.md"
   ]
 }
