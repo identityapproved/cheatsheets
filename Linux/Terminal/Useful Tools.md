@@ -5,3 +5,4 @@ A _cat(1)_ clone with syntax highlighting and integration with Git and other t
 [Docs](https://pkg.go.dev/github.com/gokcehan/lf)
 [[LF Shortcuts]]
 _lf_ (as in "list files") is a terminal file manager written in Go with a heavy inspiration from ranger file manager. ^74f656
+

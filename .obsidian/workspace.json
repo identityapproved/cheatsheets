@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "1071c89d20897186",
+        "id": "bf62337e7bf6f826",
         "type": "tabs",
         "children": [
           {
-            "id": "dec5aabe02d137f4",
+            "id": "2947836d8401b80e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Terminal/Useful Tools.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a972a1025813e1d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Terminal/Terminal.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -44,7 +27,7 @@
       {
         "id": "55a4461929146377",
         "type": "tabs",
-        "dimension": 37.47628083491461,
+        "dimension": 31.87855787476281,
         "children": [
           {
             "id": "170d7a2ef20b4be5",
@@ -68,21 +51,13 @@
               "type": "starred",
               "state": {}
             }
-          },
-          {
-            "id": "d8270cff2ebb2772",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ]
       },
       {
         "id": "4ef0744c4d353376",
         "type": "tabs",
-        "dimension": 62.52371916508539,
+        "dimension": 68.1214421252372,
         "children": [
           {
             "id": "58e0a0c4a6cd086a",
@@ -98,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214.5
+    "width": 200
   },
   "right": {
     "id": "b11de07dc0b0c582",
@@ -114,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Terminal/Terminal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Terminal/Terminal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +117,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -153,13 +126,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Linux/Terminal/Terminal.md"
-              }
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -177,17 +148,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a972a1025813e1d4",
+  "active": "2947836d8401b80e",
   "lastOpenFiles": [
-    "Shortcuts/LF Shortcuts.md",
+    "Kanbans/2023/Tools Kanban.md",
     "Linux/Terminal/Useful Tools.md",
+    "DataView.md",
+    "Shortcuts/LF Shortcuts.md",
     "Linux/Terminal/Terminal.md",
-    "Linux/Terminal/Terminal Shortcuts.md",
-    "Shortcuts/Google Chrome Shortcuts.md",
-    "Books/Read List.md",
-    "Kanbans/2023/Books Kanban.md",
-    "Books/Currently Reading List.md",
-    "Books/Should read.md",
-    "ObsidianMD/Templates/Book Application Template.md"
+    "ObsidianMD/Templates/Book Application Template.md",
+    "ObsidianMD/Templates/Book Chapters Notes Template.md",
+    "ObsidianMD/Templates/Table Template.md",
+    "ObsidianMD/Templates/Kanban Books Template.md",
+    "Kanbans/2023/Books Kanban.md"
   ]
 }

@@ -1,3 +1,0 @@
-- Obsidian Admonition
-- Emoji Toolbar
-- Excalidraw

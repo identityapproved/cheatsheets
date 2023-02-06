@@ -1,18 +1,15 @@
-Status: 
 Tags: 
+Medium: 
 Links:
-
+___
 # {{title}}
 
 ## Top 3 Quotes:
 
 ## 3 Sentence Summary:
 
-## Author's Purpose
+## Purpose:
 
 ## Important Ideas:
 
-## Personal Revelations
-
-## Future Plans
-
+## Personal Revelations:

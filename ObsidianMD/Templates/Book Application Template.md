@@ -3,7 +3,7 @@ Tags: #writings/bookapplications
 Medium: #literature/books 
 Created: {{date}} {{time}}
 Links: 
-
+___
 
 # {{title}}
 

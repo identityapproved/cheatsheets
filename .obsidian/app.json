@@ -1,4 +1,9 @@
 {
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "ObsidianMD/Templates/"
+  ],
+  "attachmentFolderPath": "/",
+  "newFileLocation": "current"
 }

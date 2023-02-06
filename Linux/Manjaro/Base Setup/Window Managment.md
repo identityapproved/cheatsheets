@@ -1,13 +1,14 @@
-TWM `-` a window manager that automatically tiles the windows into mutually, non-overlapping frames. This is a different then traditional floating/stacking window managers.
-list-based/tree-based & dynamic/manual
+## TWM 
+- a window manager that automatically tiles the windows into mutually, non-overlapping frames. This is a different then traditional floating/stacking window managers.
+- list-based/tree-based & dynamic/manual
 
-Common layouts:
-`*` master and stack
-`*` grid
-`*` monocle/full/max
-`*` spiral/fibonacci
-`*` dwindle
-`*` floating
+### Common layouts:
+- master and stack
+- grid
+- monocle/full/max
+- spiral/fibonacci
+- dwindle
+- floating
 
 REFERENCED: 
 ► [dwm.suckless](https://dwm.suckless.org/) 
@@ -19,13 +20,13 @@ REFERENCED:
 ► [bspwm](https://github.com/baskerville/bspwm)
 
 Cons:
-`-` take too much time and effort to configure
-`-` GUI apps look like crap in twm
-`-` keyboard-centric paradigm conflicts with apps that use mouse
-`-` re-arranging, moving and resizing windows is a chore
-`-` some UI elements are not displayed correctly and require manual configuration
-`-` no Alt-Tab or App Overview functionality
-`-` most relevant apps already include tiling functionality one way or another
+- take too much time and effort to configure
+- GUI apps look like crap in twm
+- keyboard-centric paradigm conflicts with apps that use mouse
+- re-arranging, moving and resizing windows is a chore
+- some UI elements are not displayed correctly and require manual configuration
+- no Alt-Tab or App Overview functionality
+- most relevant apps already include tiling functionality one way or another
 
 KDE Plasma solution -> KWin Scripts:
 - Krohnkite (DWM)
@@ -34,7 +35,8 @@ KDE Plasma solution -> KWin Scripts:
 mkdir -p ~/.local/share/kservices5/
 ln -s ~/.local/share/kwin/scripts/krohnkite/metadata.desktop ~/.local/share/kservices5/krohnkite.desktop
 ```
-	A configuration button will appear in `KWin Scripts` in `System Settings`.)
+A configuration button will appear in `KWin Scripts` in `System Settings`.)
+
 ## Krohnkite Default Key Bindings
 
 ^3c216d
