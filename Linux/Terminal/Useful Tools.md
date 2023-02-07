@@ -1,3 +1,12 @@
+---
+Tags: #terminal/linux #terminal/tools  
+Medium: #terminal 
+---
+Tags: #terminal/linux #terminal/tools  
+Medium: #terminal
+Links:
+___
+
 ## [Bat](https://github.com/sharkdp/bat)
 A _cat(1)_ clone with syntax highlighting and integration with Git and other tools(fzf, find or fd, xclip, man). ^5c0d58
 

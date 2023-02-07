@@ -1,3 +1,12 @@
+---
+Tags: #linux/terminal #archlinux/terminal #archlinux/packages 
+Medium: #terminal #linux #archlinux 
+---
+Tags: #linux/terminal #archlinux/terminal #archlinux/packages 
+Medium: #terminal #linux #archlinux 
+Links:
+___
+
 Update distro:
 ```shell
 sudo pacman -Syu

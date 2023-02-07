@@ -1,3 +1,12 @@
+---
+Tags: #linux/terminal #linux/terminal #terminal/tools #terminal/tools/nvm 
+Medium: #terminal #linux 
+---
+Tags: #linux/terminal #linux/terminal #terminal/tools #terminal/tools/nvm 
+Medium: #terminal #linux 
+Links:
+___
+
 ### Install & Update Script
 
 To **install** or **update** nvm, you should run the [install script](https://github.com/nvm-sh/nvm/blob/v0.39.3/install.sh). To do that, you may either download and run the script manually, or use the following cURL or Wget command:

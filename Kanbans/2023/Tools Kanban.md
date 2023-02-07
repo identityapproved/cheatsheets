@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## Virgin
 
-- [ ] !!! [onivim](https://onivim.io/)
 - [ ] Vim (Neovim)
 - [ ] [FZF](https://github.com/junegunn/fzf)
 - [ ] [obsidian-publisher](https://obsidian-publisher.netlify.app/)
@@ -14,6 +13,7 @@ kanban-plugin: basic
 
 ## Grind
 
+- [ ] !!! [onivim](https://onivim.io/)
 
 
 ## Done

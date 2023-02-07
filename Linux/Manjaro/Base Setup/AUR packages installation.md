@@ -1,3 +1,12 @@
+---
+Tags: #archlinux/terminal  #archlinux/packages 
+Medium: #terminal #archlinux 
+---
+Tags: #archlinux/terminal  #archlinux/packages 
+Medium: #terminal #archlinux 
+Links:
+___
+
 For manual installation, download the PKGBUILD file from this repository. 
 Run:
 ```shell

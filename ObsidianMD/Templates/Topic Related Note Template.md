@@ -1,7 +1,13 @@
+---
+Tags: 
+Medium: 
+Links:
+---
 Tags: 
 Medium: 
 Links:
 ___
+
 # {{title}}
 
 ## Top 3 Quotes:

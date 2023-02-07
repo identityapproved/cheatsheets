@@ -1,3 +1,10 @@
+---
+Status: #status/permanent
+Tags: #writings/bookapplications 
+Medium: #literature/books 
+Created: {{date}} {{time}}
+Links: 
+---
 Status: #status/permanent
 Tags: #writings/bookapplications 
 Medium: #literature/books 

@@ -1,3 +1,11 @@
+---
+Tags: #terminal/linux #terminal/tools #terminal/tools/zsh
+Medium: #terminal 
+---
+Tags: #terminal/linux #terminal/tools #terminal/tools/zsh
+Medium: #terminal
+Links:
+___
 
 Install oh-my-zsh:
 ```shell

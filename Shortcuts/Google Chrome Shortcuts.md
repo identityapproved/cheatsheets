@@ -1,3 +1,9 @@
+---
+Medium: #shortcuts
+---
+Tags: #browser/chrome #browser/chrome/shortcuts
+Medium: #shortcuts #browser 
+___
 
 | Shortcut Keys | Description |   
 | ----------- | ----------- |   

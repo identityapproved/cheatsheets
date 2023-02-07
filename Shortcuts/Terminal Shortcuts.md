@@ -1,3 +1,11 @@
+---
+Tags: #terminal/shortcuts
+Medium: #shortcuts
+---
+Tags: #terminal/shortcuts
+Medium: #shortcuts 
+___
+
 ## Yakuake
 | Key | Action |   
 | ----------- | ----------- |   

@@ -1,3 +1,7 @@
+---
+Tags: #topic/km #topic/note-taking
+Medium: #writings/videonotes
+---
 Tags: #topic/km #topic/note-taking
 Medium: #writings/videonotes
 Links: [The FUN and EFFICIENT note-taking system I use in my PhD](https://www.youtube.com/watch?v=L9SLlxaEEXY&t=4s&ab_channel=morganeua)

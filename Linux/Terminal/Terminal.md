@@ -1,3 +1,13 @@
+---
+Tags: #terminal/tools 
+Medium: #terminal
+---
+Tags: #terminal/tools 
+Medium: #terminal
+Links:
+___
+
+
 - [[oh-my-zsh]]
 should test [fishshell](https://fishshell.com/)
 - [[Useful Tools#^5c0d58|Bat]]

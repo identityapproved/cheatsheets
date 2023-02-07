@@ -5,5 +5,7 @@
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-mind-map",
   "obsidian-kanban",
-  "media-extended"
+  "media-extended",
+  "dataview",
+  "obsidian-plugin-toc"
 ]

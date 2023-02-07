@@ -4,15 +4,16 @@ kanban-plugin: basic
 
 ---
 
-## should read
+## Virgin
+
+- [ ] _"Cult of the Dead Cow: How the Original Hacking Supergroup Might Just Save the World"_ by Joseph Menn
+
+
+## Grind
 
 
 
-## in process
-
-
-
-## done
+## Done
 
 **Complete**
 

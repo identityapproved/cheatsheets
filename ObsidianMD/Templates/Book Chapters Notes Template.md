@@ -1,6 +1,12 @@
+---
 Status: 
 Tags: 
 Links:
+---
+Status: 
+Tags: 
+Links:
+___
 
 # {{title}}
 

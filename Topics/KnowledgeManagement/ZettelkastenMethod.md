@@ -1,7 +1,12 @@
+---
+Tags: #topic/km #topic/note-taking 
+Medium: #writings/articlenotes 
+---
 Tags: #topic/km #topic/note-taking 
 Medium: #writings/articlenotes 
 Links: [beginners guide to the zettelkasten method](https://zenkit.com/en/blog/a-beginners-guide-to-the-zettelkasten-method/)
 ___
+
 # Zettelkasten Method
 
 ## Quotes:

@@ -1,3 +1,12 @@
+---
+Tags: #linux/wm 
+Medium: #linux
+---
+Tags: #linux/wm 
+Medium: #linux
+___
+
+
 ## TWM 
 - a window manager that automatically tiles the windows into mutually, non-overlapping frames. This is a different then traditional floating/stacking window managers.
 - list-based/tree-based & dynamic/manual

@@ -1,3 +1,11 @@
+---
+Tags: #terminal/tools #terminal/tools/git #terminal/tools/ssh #linux/terminal 
+Medium: #terminal #linux #git #ssh
+---
+Tags: #terminal/tools #terminal/tools/git #terminal/tools/ssh #linux/terminal 
+Medium: #terminal #linux #git #ssh
+Links:
+___
 Git configuration:
 ```shell
 git config --global user.name "your_name"

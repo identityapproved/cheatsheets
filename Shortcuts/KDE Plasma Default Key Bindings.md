@@ -1,3 +1,9 @@
+---
+Medium: #shortcuts
+---
+Medium: #shortcuts
+___
+
 | Key | Action |   
 | ----------- | ----------- |   
 | Meta + Left Click | Drag window |
