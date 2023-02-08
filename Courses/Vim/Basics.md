@@ -37,3 +37,11 @@ Cursor remember last furthest known location.
 `:reg` - tracked things you delete(`d`) and yanked(`y`)
 `d` -> kept in order of history all way down
 `y` ->  preserved for only one `0` register
+
+### Insert Mode
+`a` - open cursor inside(right)
+`i` - open cursor outside(left)
+`I` - first non-whitespace char in the beginning of the line
+`A` - always to full end of the line
+`o` - open cursor on new line respects indenting
+`O` - insert new line above shifting down others

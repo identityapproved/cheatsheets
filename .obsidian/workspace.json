@@ -4,74 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "23e88a1aa083e341",
-        "type": "split",
+        "id": "c77bcd6d3707c240",
+        "type": "tabs",
         "children": [
           {
-            "id": "3a075cd9d241705e",
-            "type": "tabs",
-            "dimension": 63.282732447817835,
-            "children": [
-              {
-                "id": "cd350d0801abf7ef",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Courses/Vim/introduction.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "c1ac961e25e11885",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Courses/Vim/Basics.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "9b51ff6039a361db",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Tools/Vim.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "3b6fbc255b158cff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses/Vim/Customization.md",
+                "mode": "source",
+                "source": false
               }
-            ],
-            "currentTab": 1
-          },
-          {
-            "id": "81bbbf777ac141ca",
-            "type": "tabs",
-            "dimension": 36.717267552182165,
-            "children": [
-              {
-                "id": "6885c2a687b9e8af",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Courses/Vim/vim-fundamentals.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
+      },
+      {
+        "id": "7b7395eab6534d31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c62af88bdef2ffd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses/Vim/Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Vim/Basics.md",
+                "file": "Courses/Vim/Customization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Vim/Basics.md",
+                "file": "Courses/Vim/Customization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Vim/Basics.md"
+                "file": "Courses/Vim/Customization.md"
               }
             }
           }
@@ -208,17 +174,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c1ac961e25e11885",
+  "active": "3b6fbc255b158cff",
   "lastOpenFiles": [
-    "Courses/Vim/vim-fundamentals.md",
-    "Topics/KnowledgeManagement/ZettelkastenMethod.md",
     "Courses/Vim/Basics.md",
-    "Courses/Vim/introduction.md",
+    "Courses/Vim/Customization.md",
+    "Courses/Vim/vim-fundamentals.md",
     "Tools/Vim.md",
+    "Shortcuts/Google Chrome Shortcuts.md",
+    "ObsidianMD/Obsidian.md",
+    "Courses/Vim/introduction.md",
+    "Topics/KnowledgeManagement/ZettelkastenMethod.md",
     "Tools/Vimium.md",
-    "Tools/Onivim2.md",
-    "Linux/Manjaro/Base Setup/AUR packages installation.md",
-    "Shortcuts/LF Shortcuts.md",
-    "Linux/Terminal/Useful Tools.md"
+    "Tools/Onivim2.md"
   ]
 }

@@ -19,6 +19,7 @@ ___
 
 ## Chapters:
 - [[Basics]]
+- [[Customization]]
 
 ## End
 

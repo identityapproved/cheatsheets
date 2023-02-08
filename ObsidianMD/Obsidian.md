@@ -22,6 +22,7 @@ ___
 - Calendar
 - Dataview
 - Table of Contents
+- Relative Line Numbers
 
 ## Markdown Helpful Links:
 - https://www.markdownguide.org/

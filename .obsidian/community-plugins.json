@@ -7,5 +7,6 @@
   "obsidian-kanban",
   "media-extended",
   "dataview",
-  "obsidian-plugin-toc"
+  "obsidian-plugin-toc",
+  "obsidian-relative-line-numbers"
 ]

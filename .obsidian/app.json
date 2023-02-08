@@ -5,5 +5,8 @@
     "ObsidianMD/Templates/"
   ],
   "attachmentFolderPath": "/",
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "vimMode": true,
+  "showLineNumber": true,
+  "defaultViewMode": "preview"
 }
