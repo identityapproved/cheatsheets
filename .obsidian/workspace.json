@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Vim/Basics.md",
+                "file": "Courses/Vim/Plugins.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,15 +176,15 @@
   },
   "active": "3b6fbc255b158cff",
   "lastOpenFiles": [
-    "Courses/Vim/Basics.md",
+    "Courses/Vim/Plugins.md",
     "Courses/Vim/Customization.md",
+    "Courses/Vim/Basics.md",
+    "Courses/Vim/introduction.md",
     "Courses/Vim/vim-fundamentals.md",
+    "Linux/Terminal/Terminal.md",
     "Tools/Vim.md",
     "Shortcuts/Google Chrome Shortcuts.md",
     "ObsidianMD/Obsidian.md",
-    "Courses/Vim/introduction.md",
-    "Topics/KnowledgeManagement/ZettelkastenMethod.md",
-    "Tools/Vimium.md",
-    "Tools/Onivim2.md"
+    "Topics/KnowledgeManagement/ZettelkastenMethod.md"
   ]
 }

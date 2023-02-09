@@ -29,6 +29,11 @@ Cursor remember last furthest known location.
 `yy` - yank(copy) line
 `p` - paste below
 `P` - paste above moving current line down
+`$` - end of the line
+`0` - beggining line
+`Shift+%` - jumping on brackets
+`_` - first non-space char of the line
+`f+_` - go to `_` 
 
 ### Visual Mode
 `v` - hightlight part of the line

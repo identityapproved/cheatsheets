@@ -12,6 +12,8 @@ ___
 should test [fishshell](https://fishshell.com/)
 - [[Useful Tools#^5c0d58|Bat]]
 - [[Useful Tools#^74f656|LF]]
+- [fzf](https://github.com/junegunn/fzf) ^38ef5c
+
 
 In KDE Plasma use native terminal features and [[Terminal Shortcuts]].
 

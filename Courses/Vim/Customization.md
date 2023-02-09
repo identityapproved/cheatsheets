@@ -18,6 +18,8 @@ ___
 `d6j` - delete 6 down
 `V6j` - highlight 6 lines down -> `d`
 `df` -> delete from to -> `+a` <- `a` char included 
+`D` - delete all the rest of the line
+`dt;` - delete __till__ ;
 
 ### ~/.vimrc
 - `:scriptnames` list all the .vim files that Vim loaded for you, including your `.vimrc` file.
@@ -50,6 +52,9 @@ will open it:
 	- `#` location of current file (not previous file) 
  - `C-^` - NetRW (not jump to previous file)
  - `:jumps` (`C-o` and `C-i`) - navigating through jump list
+ - `Shift+%` - jumping on brackets
+ - `_` - first non-space char of the line
+ - `f+_` - hop to `_` 
 
 ### New Keybinding
 let mapleader = " "
@@ -58,7 +63,7 @@ n -> mode "v, i, c, t"
 nnore -> no recursive execution
 map 
 <leader>pv -> key `space`+ p + v
-:Vex<CR> -> `CR` - enter
+:Vex<CR> -> `CR` - cariage return 
 
 ### Marks:
 - `m` -> mark -> + name ('A')
