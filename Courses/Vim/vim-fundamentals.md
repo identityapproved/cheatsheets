@@ -20,7 +20,9 @@ ___
 ## Chapters:
 - [[Basics]]
 - [[Customization]]
+- [[Plugins]]
+- [[Advanced]]
 
 ## End
-
+[[myvimrc]]
 
