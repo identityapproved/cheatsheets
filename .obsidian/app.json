@@ -8,5 +8,8 @@
   "newFileLocation": "current",
   "vimMode": true,
   "showLineNumber": true,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "source",
+  "strictLineBreaks": true,
+  "showFrontmatter": false,
+  "livePreview": false
 }

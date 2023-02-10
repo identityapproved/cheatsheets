@@ -25,5 +25,5 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 - [zsh-completions](https://github.com/zsh-users/zsh-completions)
 - [docker](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/docker)
 - [docker-compose](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/docker-compose)
-
+- [zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) -> [[zshvimode|usage]]
 

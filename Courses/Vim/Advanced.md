@@ -1,13 +1,10 @@
 ---
-Status: #status/inprogress
 Tags: #course/vim
 Medium: #course #vim 
 ---
-Status: #status/inprogress
 Tags: #course/vim
 Medium: #course #vim 
 Created: 09.02.2023 10:17
-Links: 
 ___
 
 ### Horisontal and Vertical Movement

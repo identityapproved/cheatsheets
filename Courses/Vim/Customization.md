@@ -1,19 +1,18 @@
 ---
-Status: #status/inprogress
 Tags: #course/vim
 Medium: #course #vim 
 ---
-Status: #status/inprogress
-Tags: #course/vim
-Medium: #course #vim 
-Links:
+tags: #course/vim
+medium: #course #vim 
+links:
 ___
 
 ### `:set`:
-- scrolloff=8
-- number
-- relativenumber (or rnu)
-
+```vimrc
+set scrolloff=8
+set number
+set relativenumber (or rnu)
+```
 `7dd` - repeat 7 times
 `d6j` - delete 6 down
 `V6j` - highlight 6 lines down -> `d`
@@ -52,13 +51,16 @@ will open it:
 	- `#` location of current file (not previous file) 
  - `C-^` - NetRW (not jump to previous file)
  - `:jumps` (`C-o` and `C-i`) - navigating through jump list
- - `Shift+%` - jumping on brackets
+ - `%` - jumping on brackets
  - `_` - first non-space char of the line
  - `f+_` - hop to `_` 
 
 ### New Keybinding
+
+```vimrc
 let mapleader = " "
 nnoremap <leader>pv :Vex<CR>
+```
 n -> mode "v, i, c, t"
 nnore -> no recursive execution
 map 

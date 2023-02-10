@@ -1,9 +1,9 @@
 ---
-Status: #status/inprogress
+Status: #status/finished
 Tags: #course/vim
 Medium: #course #vim 
 ---
-Status: #status/inprogress
+Status: #status/finished
 Tags: #course/vim
 Medium: #course #vim 
 Created: 07.02.2023 18:39
