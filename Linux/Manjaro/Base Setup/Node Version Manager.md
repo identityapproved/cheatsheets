@@ -23,10 +23,27 @@ export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || pr
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh" # This loads nvm
 ```
 
-[NVM GitHub](https://github.com/nvm-sh/nvm#additional-notes)
+#### [NVM GitHub](https://github.com/nvm-sh/nvm#additional-notes)
 
 Install node+npm:
 ```shell
 nvm install node # Install the latest available version  
 nvm install --lts # Install the latest LTS version  
+```
+
+####  [yarn](https://yarnpkg.com/)
+
+Corepack is included by default with all Node.js installs, but is currently opt-in. To enable it, run the following command:
+```shell
+corepack enable
+```
+
+Updating the global Yarn version:
+```shell
+corepack prepare yarn@stable --activate
+```
+
+Any time you'll want to update Yarn to the latest version, just run:
+```shell
+yarn set version stable
 ```

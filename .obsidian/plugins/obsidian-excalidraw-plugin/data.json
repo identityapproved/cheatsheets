@@ -1,5 +1,5 @@
 {
-  "folder": "Excalidraw",
+  "folder": "Assets",
   "embedUseExcalidrawFolder": false,
   "templateFilePath": "Excalidraw/Template.excalidraw",
   "scriptFolderPath": "Excalidraw/Scripts",
@@ -8,21 +8,21 @@
   "autosaveInterval": 15000,
   "autosaveIntervalDesktop": 15000,
   "autosaveIntervalMobile": 10000,
-  "drawingFilenamePrefix": "Drawing ",
+  "drawingFilenamePrefix": "ExDraw",
   "drawingEmbedPrefixWithFilename": true,
   "drawingFilnameEmbedPostfix": " ",
-  "drawingFilenameDateTime": "YYYY-MM-DD HH.mm.ss",
+  "drawingFilenameDateTime": "DD-MM-YY_HH-mm",
   "useExcalidrawExtension": true,
   "displaySVGInPreview": true,
   "displayExportedImageIfAvailable": false,
   "previewMatchObsidianTheme": false,
   "width": "400",
   "isLeftHanded": false,
-  "matchTheme": false,
-  "matchThemeAlways": false,
-  "matchThemeTrigger": false,
+  "matchTheme": true,
+  "matchThemeAlways": true,
+  "matchThemeTrigger": true,
   "defaultMode": "normal",
-  "defaultPenMode": "never",
+  "defaultPenMode": "always",
   "allowPinchZoom": false,
   "allowWheelZoom": false,
   "zoomToFitOnOpen": true,
@@ -79,7 +79,7 @@
   "mdBorderColor": "Black",
   "mdCSS": "",
   "scriptEngineSettings": {},
-  "defaultTrayMode": true,
+  "defaultTrayMode": false,
   "previousRelease": "1.8.12",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
@@ -399,5 +399,5 @@
       }
     }
   ],
-  "numberOfCustomPens": 0
+  "numberOfCustomPens": 10
 }

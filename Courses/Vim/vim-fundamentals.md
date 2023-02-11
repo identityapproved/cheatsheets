@@ -18,7 +18,7 @@ ___
 [[introduction]]
 
 ## Chapters:
-- [[Basics]]
+- [[Courses/Vim/Basics]]
 - [[Customization]]
 - [[Plugins]]
 - [[Advanced]]

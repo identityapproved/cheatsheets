@@ -4,52 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "7b7395eab6534d31",
+        "id": "71f71a92e8de57ec",
         "type": "tabs",
         "children": [
           {
-            "id": "573dcc4aaf806648",
+            "id": "a925c56a57003f73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/zshvimode.md",
-                "mode": "source",
+                "file": "Linux/Terminal/oh-my-zsh.md",
+                "mode": "preview",
                 "source": true
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "71f71a92e8de57ec",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "5ee44bd5a82d8aa9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Vim/Plugins.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "a19e739c016ed6ba",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0699d3fca6408134",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Courses/Vim/Advanced.md",
+                "file": "Tools/Vim.md",
                 "mode": "source",
                 "source": true
               }
@@ -129,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/zshvimode.md",
+                "file": "Linux/Terminal/oh-my-zsh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/zshvimode.md",
+                "file": "Linux/Terminal/oh-my-zsh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/zshvimode.md"
+                "file": "Linux/Terminal/oh-my-zsh.md"
               }
             }
           }
@@ -192,17 +168,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "573dcc4aaf806648",
+  "active": "a925c56a57003f73",
   "lastOpenFiles": [
-    "Courses/Vim/Customization.md",
-    "Tools/zshvimode.md",
     "Courses/Vim/Plugins.md",
-    "Courses/Vim/Advanced.md",
+    "Courses/Algorithms(FM)/Basics.md",
+    "Assets/ArrayDataStructure.md",
+    "Courses/Algorithms(FM)/TLACYN.md",
+    "Courses/Algorithms(FM)/Linear Search.md",
     "Linux/Terminal/oh-my-zsh.md",
-    "Tools/Untitled.md",
-    "Courses/Vim/Basics.md",
-    "Tools/Vim.md",
+    "Linux/Manjaro/Base Setup/Node Version Manager.md",
+    "Linux/Terminal/Useful Tools.md",
     "Linux/Terminal/Terminal.md",
-    "Courses/Vim/vim-fundamentals.md"
+    "Excalidraw/Drawing 2023-02-11 14.40.00.excalidraw.md"
   ]
 }
