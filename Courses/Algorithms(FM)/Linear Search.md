@@ -16,3 +16,10 @@ title: O(N)
 - as your input grows, so does the time it takes equivalently or linearly.
 ```
 
+if the input halves at each step, its likely O(LogN) or O(NLogN)
+
+```ad-important
+All under assumption that the array is sorted.
+```
+
+

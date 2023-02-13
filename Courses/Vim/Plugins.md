@@ -12,6 +12,12 @@ ___
 	- GFiles - Git files 
 	- Files `[PATH]`
 	- Create `nnoremaps` for `:cnext`/`:cprev`
+- [vim-smoothie]() - This (neo)vim plugin makes scrolling nice and _smooth_. (every time you press `Ctrl-D` or `Ctrl-F`)
+- [vim-airline](https://github.com/vim-airline/vim-airline)
+- [vim-bufferline](https://github.com/bling/vim-bufferline)
+- [vim-css-color](https://github.com/ap/vim-css-color)
+- [vim-devicons](https://github.com/ryanoasis/vim-devicons)
+
 
 ### QuickFix:
 - `:grep` + what you are looking for + file or ext `**/*.ext`

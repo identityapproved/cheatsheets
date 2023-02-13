@@ -39,3 +39,10 @@ nnoremap <leader>Y gg"+yG # yank all file to sys clip
 vnoremap J :m '>+1<CR>gv=gv
 vnoremap K :m '>-2<CR>gv=gv
 ```
+
+### Buffers
+- `C-o` - backward
+- `C-i` - forward
+- `:bn` / `:bp` - next/previous
+- `:bd` - unload buffer and delete from buffer list
+- `:bw` - really delete the buffer

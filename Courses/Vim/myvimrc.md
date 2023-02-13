@@ -1,3 +1,4 @@
+```.vimrc
 set scrolloff=8
 set number
 set relativenumber
@@ -38,4 +39,7 @@ nnoremap <leader>Y gg"+yG
 
 vnoremap J :m '>+1<CR>gv=gv
 vnoremap K :m '<-2<CR>gv=gv
+
+
+```
 
