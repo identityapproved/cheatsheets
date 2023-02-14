@@ -15,3 +15,8 @@ A _cat(1)_ clone with syntax highlighting and integration with Git and other t
 [[LF Shortcuts]]
 _lf_ (as in "list files") is a terminal file manager written in Go with a heavy inspiration from ranger file manager. ^74f656
 
+## [fzf](https://github.com/junegunn/fzf) 
+- `C-r` - command history
+- `C-t` - stdout path of searching file
+- `A-c` - change directory (find dir and go to)
+- 
