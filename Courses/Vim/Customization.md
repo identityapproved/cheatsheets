@@ -46,6 +46,7 @@ will open it:
 - `:Ex` / `:Vex`(vertical split) / `:Sex`(horisontal split) or `C-w + s/v`
 - `C-w` - window mode for navigating through splitted w.
 - `C-w + o` - close all opened splits, but not current buffer
+- `C-w-w` - switch between
 - in `:reg` :
 	- `%` is current file
 	- `#` location of current file (not previous file) 

@@ -22,4 +22,8 @@ if the input halves at each step, its likely O(LogN) or O(NLogN)
 All under assumption that the array is sorted.
 ```
 
+#### The two crystal ball problem
 
+_Given two crystal balls that will break if dropped from high enough distance, determine the exact spot in which it will break in the most optimized way._
+
+![[crystalball.excalidraw]]

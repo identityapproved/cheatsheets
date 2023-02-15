@@ -14,7 +14,7 @@ ___
 [[Courses/Algorithms(FM)/Basics]]
 
 ## Chapters:
-[[Linear Search]]
+[[Search]]
 
 ## End
 

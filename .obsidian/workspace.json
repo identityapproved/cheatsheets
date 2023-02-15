@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "123450bf2f433830",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Terminal/Useful Tools.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "48ebcc9e42a7cd1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Algorithms(FM)/Linear Search.md",
+                "file": "Linux/Manjaro/Base Setup/GIT.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,13 +36,19 @@
                 "source": true
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "140464962fb00c8d",
-        "type": "tabs",
-        "children": [
+          },
+          {
+            "id": "123450bf2f433830",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses/Vim/Plugins.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
           {
             "id": "9a4b02f408819fae",
             "type": "leaf",
@@ -67,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -141,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Terminal/Useful Tools.md",
+                "file": "Linux/Manjaro/Base Setup/GIT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Terminal/Useful Tools.md",
+                "file": "Linux/Manjaro/Base Setup/GIT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Terminal/Useful Tools.md"
+                "file": "Linux/Manjaro/Base Setup/GIT.md"
               }
             }
           }
@@ -204,17 +199,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "123450bf2f433830",
+  "active": "48ebcc9e42a7cd1f",
   "lastOpenFiles": [
-    "Linux/Terminal/Terminal.md",
-    "Linux/Terminal/Useful Tools.md",
+    "Courses/Algorithms(FM)/Search.md",
+    "Assets/crystalball.excalidraw.md",
     "Courses/Vim/Plugins.md",
     "Courses/Vim/Advanced.md",
-    "Courses/Vim/myvimrc.md",
-    "Courses/Algorithms(FM)/Linear Search.md",
+    "Linux/Terminal/Useful Tools.md",
     "Courses/Vim/Customization.md",
+    "Linux/Terminal/Terminal.md",
+    "Courses/Vim/myvimrc.md",
     "Linux/Manjaro/Base Setup/Yarn.md",
-    "Linux/Terminal/oh-my-zsh.md",
-    "Courses/Algorithms(FM)/Basics.md"
+    "Linux/Terminal/oh-my-zsh.md"
   ]
 }
