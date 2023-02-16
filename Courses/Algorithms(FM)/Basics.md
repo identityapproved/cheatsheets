@@ -54,4 +54,4 @@ title: Arrays
 - are fixed size, contiguous memory chunks.
 ```
 
-### ![[ArrayDataStructure]]
+### ![[arraydatastr.excalidraw]]

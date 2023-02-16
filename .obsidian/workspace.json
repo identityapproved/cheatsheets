@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "9d82d69787171867",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses/Algorithms(FM)/Sorting.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "05db7d5aabe95d67",
@@ -55,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Vim/Advanced.md",
+                "file": "Linux/Terminal/Useful Tools.md",
                 "mode": "source",
                 "source": true
               }
@@ -136,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Manjaro/Base Setup/GIT.md",
+                "file": "Linux/Terminal/Useful Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Manjaro/Base Setup/GIT.md",
+                "file": "Linux/Terminal/Useful Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Manjaro/Base Setup/GIT.md"
+                "file": "Linux/Terminal/Useful Tools.md"
               }
             }
           }
@@ -199,17 +212,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "48ebcc9e42a7cd1f",
+  "active": "9a4b02f408819fae",
   "lastOpenFiles": [
-    "Courses/Algorithms(FM)/Search.md",
-    "Assets/crystalball.excalidraw.md",
-    "Courses/Vim/Plugins.md",
     "Courses/Vim/Advanced.md",
-    "Linux/Terminal/Useful Tools.md",
-    "Courses/Vim/Customization.md",
-    "Linux/Terminal/Terminal.md",
-    "Courses/Vim/myvimrc.md",
-    "Linux/Manjaro/Base Setup/Yarn.md",
-    "Linux/Terminal/oh-my-zsh.md"
+    "Courses/Algorithms(FM)/Sorting.md",
+    "Assets/queue.excalidraw.md",
+    "Assets/linkedlist.excalidraw.md",
+    "Assets/bubblesort.excalidraw.md",
+    "Courses/Algorithms(FM)/Basics.md",
+    "Courses/Algorithms(FM)/Search.md",
+    "Linux/Manjaro/Base Setup/GIT.md",
+    "Assets/crystalball.excalidraw.md",
+    "Courses/Vim/Plugins.md"
   ]
 }
