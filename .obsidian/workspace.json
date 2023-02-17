@@ -30,9 +30,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "fb1e46c1855ecc59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses/Algorithms(FM)/Arrays.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "05db7d5aabe95d67",
@@ -149,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Terminal/Useful Tools.md",
+                "file": "Courses/Algorithms(FM)/Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Terminal/Useful Tools.md",
+                "file": "Courses/Algorithms(FM)/Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Terminal/Useful Tools.md"
+                "file": "Courses/Algorithms(FM)/Arrays.md"
               }
             }
           }
@@ -212,17 +224,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9a4b02f408819fae",
+  "active": "fb1e46c1855ecc59",
   "lastOpenFiles": [
-    "Courses/Vim/Advanced.md",
+    "Assets/ringbuffer.excalidraw.md",
+    "Courses/Algorithms(FM)/Arrays.md",
+    "Assets/arraylist.excalidraw.md",
     "Courses/Algorithms(FM)/Sorting.md",
-    "Assets/queue.excalidraw.md",
-    "Assets/linkedlist.excalidraw.md",
-    "Assets/bubblesort.excalidraw.md",
-    "Courses/Algorithms(FM)/Basics.md",
     "Courses/Algorithms(FM)/Search.md",
-    "Linux/Manjaro/Base Setup/GIT.md",
-    "Assets/crystalball.excalidraw.md",
-    "Courses/Vim/Plugins.md"
+    "Assets/stack.excalidraw.md",
+    "Courses/Algorithms(FM)/Basics.md",
+    "Linux/Terminal/Useful Tools.md",
+    "Courses/Vim/Advanced.md",
+    "Assets/queue.excalidraw.md"
   ]
 }

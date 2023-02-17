@@ -44,3 +44,13 @@ interface LinkedList<T> {
 -   enqueue
 -   deque
 -   peek (ability to see what is first element without popping it off).
+
+### Stack 
+- linear data structure that follows the principle of Last In First Out, the opposite of a queue, a stack. In a stack, the last element inserted inside the stack is removed first.
+- focusing on single pointer -> head
+
+![[stack.excalidraw]]
+
+```ad-info
+Property access on an object in JS may or may not be constant time.
+```
