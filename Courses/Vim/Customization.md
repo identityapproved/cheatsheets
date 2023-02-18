@@ -13,6 +13,8 @@ set scrolloff=8
 set number
 set relativenumber (or rnu)
 ```
+
+
 `7dd` - repeat 7 times
 `d6j` - delete 6 down
 `V6j` - highlight 6 lines down -> `d`
