@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Algorithms(FM)/Recursion.md",
+                "file": "Courses/Algorithms(FM)/Sorting.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "454ba0e27f875f5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses/Algorithms(FM)/Trees.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "05db7d5aabe95d67",
@@ -56,25 +68,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Vim/Plugins.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9a4b02f408819fae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Terminal/Useful Tools.md",
+                "file": "Courses/Vim/Advanced.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Algorithms(FM)/Recursion.md",
+                "file": "Courses/Algorithms(FM)/Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Algorithms(FM)/Recursion.md",
+                "file": "Courses/Algorithms(FM)/Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Algorithms(FM)/Recursion.md"
+                "file": "Courses/Algorithms(FM)/Trees.md"
               }
             }
           }
@@ -211,17 +212,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8184bbf94e060dac",
+  "active": "454ba0e27f875f5f",
   "lastOpenFiles": [
-    "Courses/Vim/Customization.md",
-    "Courses/Algorithms(FM)/Recursion.md",
-    "Assets/mazesolver.excalidraw.md",
-    "Assets/recursion.excalidraw.md",
-    "Courses/Algorithms(FM)/Arrays.md",
-    "Courses/Vim/Plugins.md",
     "Courses/Algorithms(FM)/Sorting.md",
-    "Linux/Manjaro/Base Setup/GIT.md",
-    "Assets/ringbuffer.excalidraw.md",
-    "Assets/arraylist.excalidraw.md"
+    "Courses/Algorithms(FM)/Trees.md",
+    "Courses/Algorithms(FM)/TLACYN.md",
+    "Courses/Algorithms(FM)/Arrays.md",
+    "Courses/Algorithms(FM)/Basics.md",
+    "Courses/Algorithms(FM)/Recursion.md",
+    "Courses/Algorithms(FM)/Search.md",
+    "Assets/breadthfirst.excalidraw.md",
+    "Courses/Vim/Advanced.md",
+    "Courses/Vim/Plugins.md"
   ]
 }
