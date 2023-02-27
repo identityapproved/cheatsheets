@@ -33,3 +33,11 @@ _branching factor_ - the amount of children a tree has.branching factor
 
 - DFS -> preverse shape
 - BFS -> does not
+
+#### Binary Search Tree
+
+- find and insert
+![[bstfindinsert.excalidraw]]
+
+- delete
+![[bstdelete.excalidraw]]
