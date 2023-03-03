@@ -18,3 +18,9 @@ ___
 - self-balanced
 
 ![[heap.excalidraw]]
+
+```ad-info
+title: Delete / Insert
+O(LogN)
+```
+
